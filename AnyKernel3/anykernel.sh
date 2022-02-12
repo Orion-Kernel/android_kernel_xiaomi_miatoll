@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=DFC Kernel by Sairam60
+kernel.string=Orion-Kernel by  @alioth2004
 do.devicecheck=1
 do.modules=0
 do.cleanup=1
